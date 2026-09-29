@@ -532,6 +532,7 @@
     section{padding:64px 0;}
     .hero h1{font-size:1.8rem;padding-right: 0;}
     .footer-top{flex-direction:column;}
+    .thumb{height: 160px;}
     .footer-links{gap:18px;flex-wrap:wrap;}
   }
 
