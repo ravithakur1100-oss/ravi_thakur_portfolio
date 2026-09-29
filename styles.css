@@ -530,7 +530,7 @@
   @media (max-width:640px){
     .wrap{padding:0 20px;}
     section{padding:64px 0;}
-    .hero h1{font-size:1.8rem;}
+    .hero h1{font-size:1.8rem;padding-right: 0;}
     .footer-top{flex-direction:column;}
     .footer-links{gap:18px;flex-wrap:wrap;}
   }
